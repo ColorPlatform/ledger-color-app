@@ -3,4 +3,4 @@
 
 This is the source code of Color Ledger app.
 
-Please refer to the https://github.com/RNSSolution/ledger-color for the complete source code, build instructions, etc. (unit tests, integration tests, documentation, etc.)
+Please refer to https://github.com/RNSSolution/ledger-color for the complete source code, build instructions, etc. (unit tests, integration tests, documentation, etc.)
